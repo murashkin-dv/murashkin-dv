@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Greetings]()
-
 I am *Dmitry*, back-end developer on Python.</br>
 The world of coding is exciting and really endless.</br>
 There is always a place for every developer to make a decent contribution to.</br>
+
+![image](https://github.com/user-attachments/assets/ff4f326f-cb3b-4519-8eb4-b48792d21cc2)
 
 ** Projects **
 
