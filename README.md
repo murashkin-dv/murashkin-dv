@@ -21,14 +21,20 @@ There is always a place for every developer to make a decent contribution to now
 
 ![image](https://github.com/user-attachments/assets/ff4f326f-cb3b-4519-8eb4-b48792d21cc2)
 
-** Projects **
+**🚀 Projects**
 
-In work
+Look forward to my [Portfolio](https://github.com/murashkin-dv/Portfolio)
 
-** Tool Stack **
+**⚙️ Tools Stack**
 
-In work
+- Flask Framework (Django is next to get familiar with)
+- FastAPI
+- FrameworkSQL (SQLAlchemy, SQlite, MySQL)
+- GIT (GitHub, GitLab)
+- Postman
+- Docker
+- Profilers (Sentry, Prometheus, Grafana)
 
-** Contacts **
+**💬 Contacts**
 
 Email me to: <murashkin.dv@gmail.com>
