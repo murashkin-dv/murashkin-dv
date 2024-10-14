@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am *Dmitry*, back-end developer on Python.</br>
+I am *Dmitry*,  a Python back-end developer.</br>
 The world of coding is exciting and really endless.</br>
 There is always a place for every developer to make a decent contribution to nowadays.</br>
 
