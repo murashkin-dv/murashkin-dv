@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 I am *Dmitry*,  a Python back-end developer.</br>
 The world of coding is exciting and really endless.</br>
-My belief: every developer deserves a chance to make valuable contributions while collaboration and respect pave the way for innovation."
+My belief:</br>
+&emsp; every developer deserves a chance to make valuable contributions</br> 
+&emsp;&emsp; while collaboration and respect pave the way for innovation.
 
 ![image](https://github.com/user-attachments/assets/ff4f326f-cb3b-4519-8eb4-b48792d21cc2)
 
